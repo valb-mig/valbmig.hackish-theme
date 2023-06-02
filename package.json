@@ -1,0 +1,22 @@
+{
+  "name": "hackish",
+  "displayName": "Hackish",
+  "description": "Hackish theme.. made by me :D",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hackish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hackish-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
