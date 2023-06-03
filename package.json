@@ -3,6 +3,7 @@
   "displayName": "Hackish",
   "description": "A theme for strange people like me :D",
   "version": "1.0.0",
+  "publisher": "valbmig",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -12,6 +13,16 @@
 	},
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "hackish",
+    "thermal",
+    "heat",
+    "dark",
+    "valb",
+    "ivalber",
+    "mig"
   ],
   "contributes": {
     "themes": [
