@@ -1,14 +1,14 @@
 {
   "name": "hackish",
   "displayName": "Hackish",
-  "description": "Hackish theme.. made by me :D",
-  "version": "0.0.1",
+  "description": "A theme for strange people like me :D",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.78.0"
   },
   "repository": {
 		"type": "git",
-		"url": "https://github.com/valb-mig/hackish-vscode-theme"
+		"url": "https://github.com/valb-mig/valbmig.hackish-theme"
 	},
   "categories": [
     "Themes"

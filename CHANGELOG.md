@@ -1,9 +1,3 @@
-# Change Log
+# 🔥 Arrise
 
-All notable changes to the "hackish" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- ver 1.0.0
